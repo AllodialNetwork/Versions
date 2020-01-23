@@ -1,0 +1,36 @@
+{
+  "versions": [
+    {
+      "id": "1.14",
+      "optifine": false
+    },
+    {
+      "id": "1.14.1",
+      "optifine": false
+    },
+    {
+      "id": "1.14.2",
+      "optifine": false
+    },
+    {
+      "id": "1.14.3",
+      "optifine": "https://www.allodial.network/Versions/Optifine/OptiFine_1.14.3_HD_U_F2.jar"
+    },
+    {
+      "id": "1.14.4",
+      "optifine": "https://www.allodial.network/Versions/Optifine/OptiFine_1.14.4_HD_U_F5.jar"
+    },
+    {
+      "id": "1.15",
+      "optifine": false
+    },
+    {
+      "id": "1.15.1",
+      "optifine": false
+    },
+    {
+      "id": "1.15.2",
+      "optifine": false
+    }
+  ]
+}
